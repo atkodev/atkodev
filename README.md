@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+열심히 재 단장 중이에요! 조금만 기다려 주세요.
+I rework my github pages(blog, homepage, etc...). Please wait :)
+
 <!--
 **atkodev/atkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
